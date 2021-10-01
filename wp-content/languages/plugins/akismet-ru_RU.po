@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Akismet Spam Protection - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-09-25 08:42:44+0000\n"
+"PO-Revision-Date: 2021-07-06 20:50:36+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,10 +10,6 @@ msgstr ""
 "X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: ru\n"
 "Project-Id-Version: Plugins - Akismet Spam Protection - Stable (latest release)\n"
-
-#: views/notice.php:194
-msgid "<a href=\"%1$s\" class=\"button\" target=\"_blank\">Upgrade to %2$s</a>"
-msgstr "<a href=\"%1$s\" class=\"button\" target=\"_blank\">Обновление до %2$s</a>"
 
 #: views/notice.php:117
 msgid "Please enter a new key or <a href=\"%s\" target=\"_blank\">contact Akismet support</a>."
@@ -145,7 +141,7 @@ msgstr "Если установлено, Akismet автоматически бу
 #: class.akismet-rest-api.php:27 class.akismet-rest-api.php:101
 #: class.akismet-rest-api.php:114 class.akismet-rest-api.php:127
 msgid "A 12-character Akismet API key. Available at akismet.com/get/"
-msgstr "12-символьный ключ API Akismet. Доступен на akismet.com/get/"
+msgstr "12-символьный ключ API Akismet. Доступен на  akismet.com/get/"
 
 #: views/notice.php:55
 msgid "Your site can&#8217;t connect to the Akismet servers."
@@ -741,9 +737,9 @@ msgstr "<a href=\"%s\">Akismet</a> защищает ваш блог от спа�
 #: class.akismet-admin.php:357
 msgid "<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comment already. "
 msgid_plural "<a href=\"%1$s\">Akismet</a> has protected your site from %2$s spam comments already. "
-msgstr[0] "<a href=\"%1$s\">Akismet</a> защитил ваш сайт от %2$s спам-комментария. "
-msgstr[1] "<a href=\"%1$s\">Akismet</a> защитил ваш сайт от %2$s спам-комментариев. "
-msgstr[2] "<a href=\"%1$s\">Akismet</a> защитил ваш сайт от %2$s спам-комментариев. "
+msgstr[0] "<a href=\"%1$s\">Akismet</a> защитил ваш сайт от %2$s спам-комментария."
+msgstr[1] "<a href=\"%1$s\">Akismet</a> защитил ваш сайт от %2$s спам-комментариев."
+msgstr[2] "<a href=\"%1$s\">Akismet</a> защитил ваш сайт от %2$s спам-комментариев."
 
 #: class.akismet-admin.php:347
 msgid "<a href=\"%1$s\">Akismet</a> has protected your site from <a href=\"%2$s\">%3$s spam comment</a>."
@@ -783,7 +779,7 @@ msgstr "Статус"
 
 #: class.akismet-admin.php:257
 msgid "The Akismet subscription plan"
-msgstr "План подписки Akismet"
+msgstr "План подписки Akismet."
 
 #: class.akismet-admin.php:257 views/config.php:196
 msgid "Subscription Type"
